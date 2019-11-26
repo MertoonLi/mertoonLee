@@ -1,0 +1,5 @@
+this is a new file that only feature_2 has
+
+this is a new file that only feature_1 has
+
+this description exists in both feature. 
