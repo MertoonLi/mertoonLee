@@ -1,0 +1,6 @@
+mian(){
+printf("hello");
+}
+void printf(String){
+sout(String);
+}
